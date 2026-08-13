@@ -68,11 +68,6 @@ Passionate and Curiostic developer trying to help in building APPs and WEBSITE  
 <img src="https://komarev.com/ghpvc/?username=charitracodes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=charitracodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charitracodes&layout=default&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=charitracodes&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
