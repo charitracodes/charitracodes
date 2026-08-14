@@ -92,7 +92,7 @@ Passionate and Curiostic developer trying to help in building APPs and WEBSITE  
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/CHARITRA_KHADDAR_JAIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/charitra-khaddar-jain-8a2038249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/charitracodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
